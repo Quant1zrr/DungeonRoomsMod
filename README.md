@@ -22,16 +22,16 @@ Discord
 **-** P - Opens Secret Waypoints configuration GUI
 **-** O - Opens images of secret locations
 ### Commands:
-**-** /room - Tells you in chat what room you are standing in.
-**-** /room help - Displays this message in chat.
-**-** /room waypoints - Opens Secret Waypoints config GUI, alternatively can be opened with hotkey
-**-** /room move <x> <y> - Moves the GUI room name text to a coordinate. and are numbers between 0 and 100. (Default is 50 for <x> and 5 for <y>)
-**-** /room toggle [argument] - Run "/room toggle help" for full list of toggles.
-**-** /room set <gui | dsg | sbp> - Configure whether the hotkey opens the selector GUI or directly goes to DSG/SBP.
-**-** /room discord - Opens the Discord invite for this mod in your browser.
-**-** /room open - Opens the gui for opening either DSG or SBP.
-**-** /room dsg - Directly opens DSG in the Discord client.
-**-** /room sbp - Directly opens the SBP secrets (if you have the mod installed).
+- /room - Tells you in chat what room you are standing in.
+- /room help - Displays this message in chat.
+- /room waypoints - Opens Secret Waypoints config GUI, alternatively can be opened with hotkey
+- /room move <x> <y> - Moves the GUI room name text to a coordinate. and are numbers between 0 and 100. (Default is 50 for <x> and 5 for <y>)
+- /room toggle [argument] - Run "/room toggle help" for full list of toggles.
+- /room set <gui | dsg | sbp> - Configure whether the hotkey opens the selector GUI or directly goes to DSG/SBP.
+- /room discord - Opens the Discord invite for this mod in your browser.
+- /room open - Opens the gui for opening either DSG or SBP.
+- /room dsg - Directly opens DSG in the Discord client.
+- /room sbp - Directly opens the SBP secrets (if you have the mod installed).
 ### Credits:
 Big thanks to the respective authors of Danker's Skyblock Mod, Skytils, and NEU for various pieces of code used in this mod. Thanks to DJtheRedstoner for various bug/performance fixes.
 
