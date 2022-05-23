@@ -19,8 +19,8 @@ Discord
 ### Hotkeys:
 (Configurable in Controls Menu)
 
-**-** P - Opens Secret Waypoints configuration GUI
-**-** O - Opens images of secret locations
+- P - Opens Secret Waypoints configuration GUI
+- O - Opens images of secret locations
 ### Commands:
 - /room - Tells you in chat what room you are standing in.
 - /room help - Displays this message in chat.
